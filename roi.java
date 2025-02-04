@@ -1,1 +1,5 @@
-System.out.println("Roi");
+public class Roi {
+  private static main() {
+    System.out.println("Roi");
+  }
+}
